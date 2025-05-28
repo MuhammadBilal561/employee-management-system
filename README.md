@@ -37,6 +37,7 @@ operations in a small organization.
 The system uses a text-based interface, which is not user-friendly for non-technical users.          
   
   •	No Data Security
+                          
 There is no authentication or user access control, making the system insecure.   
                   
   •	File-Based Storage     
