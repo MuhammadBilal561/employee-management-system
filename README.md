@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c02220b7-ff1f-4b55-98ad-e0619274abf9)Employee Management System
 
 Description
 
