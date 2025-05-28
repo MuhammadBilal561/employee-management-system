@@ -32,14 +32,14 @@ operations in a small organization.
              3.	Weakness in the Project
 
 
-        •	Command-Line Interface Only
+  •	Command-Line Interface Only
                
 The system uses a text-based interface, which is not user-friendly for non-technical users.          
   
-        •	No Data Security
+  •	No Data Security
 There is no authentication or user access control, making the system insecure.   
                   
-        •	File-Based Storage     
+  •	File-Based Storage     
    
 Data is stored in plain text files, which is less efficient and harder to manage than using a database.
 
