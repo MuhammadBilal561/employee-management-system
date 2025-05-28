@@ -12,7 +12,7 @@ operations in a small organization.
 2.	Users of Application
    
 
-1- Admin – Manages employees, products, user accounts, and notifications.                            
+1- Admin – Manages employees, products, user accounts, and notifications.                                
 
 2- Employee – Views and sells products, checks personal info, salary, and notifications.       
 
@@ -30,10 +30,12 @@ operations in a small organization.
 
 
 •	Command-Line Interface Only
-The system uses a text-based interface, which is not user-friendly for non-technical users.
+The system uses a text-based interface, which is not user-friendly for non-technical users.          
+  
 •	No Data Security
-There is no authentication or user access control, making the system insecure.
-•	File-Based Storage
+There is no authentication or user access control, making the system insecure.      
+•	File-Based Storage     
+   
 Data is stored in plain text files, which is less efficient and harder to manage than using a database.
 
 
@@ -41,9 +43,14 @@ Data is stored in plain text files, which is less efficient and harder to manage
 
   4.	Future Planning
 
-•	Learn and implement Object-Oriented Programming (OOP) to structure programs more efficiently.
-•	Rebuild this project using classes and objects for better maintainability and scalability.
-•	Learn C++ Standard Template Library (STL) and data structures to solve more complex problems.
-•	Explore GUI libraries (like Qt or SFML) to create user-friendly interfaces for applications.
-•	Eventually, shift towards full software development, including database systems and web-based applications.
+•	Learn and implement Object-Oriented Programming (OOP) to structure programs more efficiently.   
+
+•	Rebuild this project using classes and objects for better maintainability and scalability.    
+
+•	Learn C++ Standard Template Library (STL) and data structures to solve more complex problems.            
+
+•	Explore GUI libraries (like Qt or SFML) to create user-friendly interfaces for applications.                
+
+•	Eventually, shift towards full software development, including database systems and web-based applications.             
+
 
